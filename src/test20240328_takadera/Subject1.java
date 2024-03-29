@@ -2,7 +2,7 @@ package test20240328_takadera;
 
 public class Subject1 {
 
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         // 課題の説明を出力
         System.out.println("配列の中の最小数と最大数を求めるプログラム");
         

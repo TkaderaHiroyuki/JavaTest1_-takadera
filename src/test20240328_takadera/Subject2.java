@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Subject2 {
 
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         // ルールを出力
         System.out.println("課題２：有効なパスワードのチェックプログラム");
         System.out.println("パスワードのルール：");
